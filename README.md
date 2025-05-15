@@ -138,6 +138,8 @@ Your Excel file should contain the following information (column names can be ma
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
 
+Developed by Mohit Dhillon
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
